@@ -6,4 +6,5 @@ its made in ruby because yes
 
 # Usage
 simply do:
-~ruby /directory/Toilet/BiggestPoops/main.rb <file>.shig
+` ruby /directory/Toilet/BiggestPoops/main.rb <file>.shig
+`
