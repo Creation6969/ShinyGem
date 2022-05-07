@@ -13,7 +13,7 @@ File.open(ARGV[0], "r") do |file|
       x[i+1]=x[i]
       x[i+2]=x[i]
     elsif x[i]=="newline"
-      x[i]=="\n"
+      x[i]="\n"
     end
   end
 end
