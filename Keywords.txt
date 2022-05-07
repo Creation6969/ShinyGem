@@ -1,0 +1,4 @@
+log< ||| Prints anything behind it
+log> ||| Prints anything infront it
+rep ||| idk how to explain this lol: VALUE rep VALUETOKIDNAP DUMMY
+newline ||| the keyword name says it
