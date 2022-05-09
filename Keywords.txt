@@ -1,4 +1,13 @@
+```
 log< ||| Prints anything behind it
 log> ||| Prints anything infront it
 rep ||| idk how to explain this lol: VALUE rep VALUETOKIDNAP DUMMY
 newline ||| the keyword name says it
+exit ||| exits the program
+forceExit ||| exits the program no matter what
+cfile ||| Returns current filename
+dup ||| basically does this: dup Beijing empty log< when interpreted it's like this: dup Beijing Beijing log<
+shift ||| shape shifts onto the value Infront of it
+valueof ||| declares a variable like this: <name> valueof <value>
+var ||| returns the value of the variable inserted
+log<< ||| too Brazilian to explain: 0 1 2 log<<: 0
