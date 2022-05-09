@@ -29,7 +29,7 @@ File.open(ARGV[0], "r") do |file|
       x[i]=x[i+1]
     elsif x[i]=="log<<"
       puts x[i-3].gsub("::s::", " ")
-    elsif x[i]=="valueof"
+    elsif x[i]=="="
       vars.push("#{x[i-1]} #{x[i+1]}")
     elsif x[i]=="var"
       v = vars.length()
